@@ -18,13 +18,13 @@
 ### Hasil
 ![code3](https://user-images.githubusercontent.com/93004722/139209637-f81dbe9e-f3a3-42bb-b0fd-c141a29c5357.PNG)
 
-## 4. Celcius ke reamur
+## 4. Celcius ke Reamur
 ### Source Code
 ![code 4](https://user-images.githubusercontent.com/93004722/139210833-d25df31c-3e44-4a97-b8b4-cb8ec64be5c5.png)
 ### Hasil
 ![code4](https://user-images.githubusercontent.com/93004722/139209804-a8ee025e-4c2b-4264-8119-ec6935252f6f.PNG)
 
-## e. Celcius ke fahrenheit
+## 5. Celcius ke Fahrenheit
 ### Source Code
 ![code 5](https://user-images.githubusercontent.com/93004722/139210853-0223561e-443f-48bb-a305-ac649ad2f667.png)
 ### Hasil
